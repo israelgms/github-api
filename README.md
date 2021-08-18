@@ -1,3 +1,14 @@
+Github-api é um projeto no qual tem como objetivo criar uma aplicação que consiga consumir a api do GitHub, apresentando tudo de uma forma simples e elegante. A construção foi feita com ReactJs, Axios, Styled-Components e etc..
+
+Tela inicial:
+![Screenshot](githubapi1.JPG)
+
+O resultado é apresentado desta forma:
+![Screenshot](githubapi2.JPG)
+
+
+////
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
